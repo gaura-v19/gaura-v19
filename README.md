@@ -1,11 +1,11 @@
 # Hey, I'm Gaurav 👋
 
-### 🚀 Featured Project
-**Ruplit** – A peer-to-peer expense splitting application built to understand how production-ready applications are designed. It allows users to create groups, add expenses, split bills, track balances, and settle payments. Built using Spring Boot, PostgreSQL, and a React Native frontend.
+###  Featured Project
+**Ruplit** – A peer-to-peer expense splitting application built to understand how production-ready applications are designed. It allows users to create groups, add expenses, split bills, track balances, and settle payments."Built using Spring Boot and PostgreSQL, with a React Native frontend."
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java"/>
@@ -21,7 +21,7 @@
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Spring Boot & REST API Development
 - PostgreSQL
@@ -30,7 +30,7 @@
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 - Build production-ready backend applications
 - Improve problem-solving through DSA
@@ -38,6 +38,6 @@
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_UR](https://www.linkedin.com/in/gaurav-tripathi-48337427a/))
