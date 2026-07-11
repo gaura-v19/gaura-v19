@@ -40,4 +40,4 @@
 
 ##  Connect with Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_UR](https://www.linkedin.com/in/gaurav-tripathi-48337427a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
