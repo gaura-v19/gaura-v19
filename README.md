@@ -1,4 +1,6 @@
-# Hey, I'm Gaurav 👋
+# Hello, I'm Gaurav Tripathi 
+
+Final-year B.Tech IT student at MITS Gwalior. I enjoy building full-stack applications and exploring new technologies through hands-on projects.
 
 ###  Featured Project
 **Ruplit** – A peer-to-peer expense splitting application built to understand how production-ready applications are designed. It allows users to create groups, add expenses, split bills, track balances, and settle payments."Built using Spring Boot and PostgreSQL, with a React Native frontend."
